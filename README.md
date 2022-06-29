@@ -1,5 +1,5 @@
 # Alzheimer’s Analysis
-
+Keeping in consideration the progression analysis done on the data, this web app is created to ensure a proper interface that can be easily utilized by individuals who want to check if they suffer from dementia or not. It is an easy and simple interface that allows the subjects to enter readings according to a scale and informed if they have dementia or not. The web app also has functionality for users to upload an image. The uploaded image is processed and provides a result by identifying the facial emotion shown in the image. 
 ### Introduction
 #### About Dementia
 Dementia is not a specific disease. It’s an overall term that describes a group of symptoms associated with a decline in memory or other thinking skills severe enough to reduce a person’s ability to perform everyday activities. Alzheimer’s disease accounts for 60 to 80 percent of cases. Vascular dementia, which occurs after a stroke, is the second most common dementia type. But there are many other conditions that can cause symptoms of dementia, including some that are reversible, such as thyroid problems and vitamin deficiencies.
